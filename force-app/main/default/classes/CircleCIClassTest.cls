@@ -1,7 +1,7 @@
 @isTest
 public class CircleCIClassTest {
     @isTest
-    public void testmethod1(){
+    public static void testmethod1(){
         CircleCIClass.hello();
     }
 }
