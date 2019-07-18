@@ -3,7 +3,7 @@ public with sharing class CircleCIClass {
 
     }
 	
-	public void hello(){
+	public static void hello(){
 		system.debug('hello..!!');
 	}
 }
