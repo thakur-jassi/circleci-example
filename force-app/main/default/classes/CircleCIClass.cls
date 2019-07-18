@@ -4,6 +4,6 @@ public with sharing class CircleCIClass {
     }
 	
 	public void hello(){
-		system.debug('hello there..!!');
+		system.debug('hello..!!');
 	}
 }
